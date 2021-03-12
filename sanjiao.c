@@ -27,6 +27,7 @@ int main()
 	else 
 	{
 		printf("这不是三角形\n");
+		printf("see you");
 	}
 	return 0;
 }
